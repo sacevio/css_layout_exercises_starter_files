@@ -1,0 +1,38 @@
+body {
+  padding-top: 60px;
+  font-size: 0;
+}
+.main-container{
+  width: 800px;
+  height: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px black solid;
+}
+.inner-top{
+  width: 50%;
+  height: 200px;
+  border: 1px black solid;
+  display: inline-block;
+}
+.green {
+    background-color: green;
+}
+.blue{
+  background-color: blue;
+}
+.inner-bottom{
+  width: 33.33%;
+  height: 300px;
+  border: 1px black solid;
+  display:inline-block;
+}
+.grey{
+  background-color: grey;
+}
+.black{
+  background-color: black;
+}
+.orange{
+  background-color: orange;
+}
