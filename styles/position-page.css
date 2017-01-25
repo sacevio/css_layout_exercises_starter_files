@@ -1,1 +1,51 @@
 
+.bg{
+  min-height: 100%;
+  min-width: 1024px;
+  width:100%;
+  height: auto;
+  position:fixed;
+  top:0;
+}
+nav{
+  padding-left: 60px;
+  padding-right: 60px;
+  position: relative;
+
+  height: 80px;
+  background-color: grey;
+}
+li{
+  display: inline-block;
+  position: absolute;
+  top: 20px;
+  left:150px;
+}
+.navcat{
+  height: 50px;
+  width: 50px;
+}
+main{
+  padding-top: 200px;
+}
+.box{
+  height: 300px;
+  width: 600px;
+  border: 10px green dotted;
+  margin: auto;
+  position:relative;
+}
+.space{
+  width: 200px;
+  height:200px;
+}
+.cat{
+  position: absolute;
+  bottom: 200px;
+  right: 500px;
+}
+.dog{
+  position: absolute;
+  top: 200px;
+  left: 450px;
+}
